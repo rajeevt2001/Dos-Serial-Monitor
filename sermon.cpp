@@ -1,3 +1,5 @@
+// compile with Turbo C's TCC Compiler, Made by Rajeev Tiwari with the help of Google Gemini
+
 #include <stdio.h>
 #include <dos.h>
 #include <conio.h>
