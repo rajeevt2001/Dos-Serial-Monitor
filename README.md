@@ -4,12 +4,15 @@ DOS Serial Monitor (SERMON.EXE) is a lightweight, hardware-accelerated MS-DOS se
 ## Screenshots
 
 Main Interface monitoring serial data
+
 ![Main Interface](screenshots/main_interface.png)
 
 Settings Menu with all configurations in tabs
+
 ![Settings Menu](screenshots/settings_menu.png)
 
 Hex Mode for hardware-level communication
+
 ![ANSI Mode](screenshots/hex_mode.png)
 
 # Features
