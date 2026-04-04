@@ -3,19 +3,19 @@ DOS Serial Monitor (SERMON.EXE) is a lightweight, hardware-accelerated MS-DOS se
 
 ## Screenshots
 
-Main Interface monitoring incoming serial data
+Main Interface monitoring serial data
 ![Main Interface](screenshots/main_interface.png)
 
-Settings Menu with COM Port and Baud Rate configuration
+Settings Menu with all configurations in tabs
 ![Settings Menu](screenshots/settings_menu.png)
 
-Hex Mode for hardware level commnunication
+Hex Mode for hardware-level communication
 ![ANSI Mode](screenshots/hex_mode.png)
 
 # Features
 
 Core Communications Engine
- - Direct hardware-level UART polling bypassing DOS interrupts for maximum speed and stability.
+ - Direct hardware-level polling bypassing DOS interrupts for maximum speed and stability.
  - Support for standard COM ports (COM1 through COM4).
  - Adjustable baud rates ranging from 9600 up to 115200 bps.
  - Configurable line endings (None, NL, CR, NL/CR) for transmitting data.
