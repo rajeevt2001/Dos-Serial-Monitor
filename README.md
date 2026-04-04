@@ -9,7 +9,7 @@ Main Interface monitoring incoming serial data
 Settings Menu with COM Port and Baud Rate configuration
 ![Settings Menu](screenshots/settings_menu.png)
 
-Compatibility ANSI-only Mode
+Hex Mode for hardware level commnunication
 ![ANSI Mode](screenshots/ansi_mode.png)
 
 # Features
