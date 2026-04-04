@@ -51,7 +51,7 @@ Absolute Minimum
  - OS: MS-DOS 5.0+
  - CPU: Intel 80386
  - RAM: 1 MB
- - Video: VGA or MDA (Monochrome Display Adapter)
+ - Video: VGA
  - Input: Standard Keyboard (Mouse highly recommended for UI navigation)
 
 # Tested on
