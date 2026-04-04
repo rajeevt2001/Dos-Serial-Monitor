@@ -25,9 +25,9 @@ Core Communications Engine
 
 Custom VRAM Interface
  - Custom graphical window manager running natively in standard DOS 80x25 text mode.
- - Highly optimized asynchronous UI engine: interacting with menus, clicking buttons, or dragging the scrollbar will not block the CPU or drop incoming serial bytes.
- - Full mouse support featuring a modern, dynamically resizing scrollbar with grab-and-drag functionality.
- - Shift-click text selection and highlighting in the command input buffer.
+ - Highly optimized asynchronous UI engine: interacting with menus, clicking buttons, or using the scrollbar will not block the CPU or drop incoming serial bytes.
+ - Full mouse support featuring a modern, dynamically resizing scrollbar.
+ - Shift and drag-click-based text selection and highlighting in the command input buffer.
  - Toggleable ANSI and Extended ASCII drawing modes for maximum hardware compatibility.
  - Customizable UI themes with adjustable background, foreground, selection, and critical colors.
 
