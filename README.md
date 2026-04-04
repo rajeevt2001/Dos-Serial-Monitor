@@ -1,5 +1,5 @@
 # DOS Serial Monitor
-DOS Serial Monitor (SERMON.EXE) is a lightweight, hardware-accelerated MS-DOS serial port monitor designed for debugging a computer's serial port, which uses the RS232 Protocol. It supports translating ANSI and raw hex data. Built entirely from scratch in C++ with the help of Google Gemini for classic MS-DOS environments, it brings a modern, mouse-driven GUI experience into a pure 80x25 text-mode terminal. Like my previous projects, this was built to combine low-level hardware work with a highly polished, retro-futuristic aesthetic.
+DOS Serial Monitor (SERMON.EXE) is a lightweight, hardware-accelerated MS-DOS serial port monitor designed for debugging a computer's serial port, which uses the RS232 Protocol. It supports translating ANSI and raw hex data. Built entirely from scratch in C++ with the help of Google Gemini for classic MS-DOS environments, it brings a modern, mouse-driven GUI experience into a pure 80x25 text-mode terminal. Like my previous projects, this was built to combine low-level hardware work with a highly polished, retro-futuristic aesthetic. Yes, I know that the whole program is made with the help of AI. Because I'm not good at coding at this level, I only know how to design the user interface.
 
 ## Screenshots
 
